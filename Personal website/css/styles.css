@@ -1,0 +1,67 @@
+#title{
+    background-color: #E4F9F5;
+    color: #66BFBF;
+    min-height: 100vh; /**section fits the entire screen*/
+} 
+
+
+
+h1 { 
+    font-family: 'Montserrat-Black'; 
+    font-size: 3rem;  
+    line-height: 1.5;  
+    font-weight: 900;}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+body{font-family: 'Montserrat';
+    margin:0;
+    padding:0;}
+
+/**navigation bar*/
+.navbar{
+    padding: 0 0 4.5rem;
+}
+
+.navbar-item{
+    padding: 0, 18px;
+}
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    color: #66BFBF !important;
+    font-weight: bold;
+    
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Montserrat-Light';
+    color: #66BFBF !important;
+}
+
+.intro {
+    padding-bottom: 50px;
+}
+
+.download-button{margin: 5% 3% 5% 0}
+
+/**title image*/
+.title-image{width:80%;}
+.mountain-image{width:80%;}
+
+
+/**linkedin button hover*/
+.btn-dark:hover{
+    color:gold;
+}
+.btn-success:hover{
+    color:lightpink;
+}
+.btn-info:hover{color: rgba(255, 81, 0, 0.774);}
+
+.nav-link:hover{
+    color: blueviolet !important;
+}
